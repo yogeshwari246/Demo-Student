@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>DemoStudent</artifactId>
+	<artifactId>CourseManagementApplication</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>DemoStudent</name>
+	<name>CourseManagementApplication</name>
 	<description/>
 	<url/>
 	<licenses>
@@ -64,11 +64,6 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-webmvc-test</artifactId>
 			<scope>test</scope>
-		</dependency>
-		<dependency>
-			<groupId>com.example</groupId>
-			<artifactId>EmployeeManagementApplication</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 
